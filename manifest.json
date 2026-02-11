@@ -1,0 +1,10 @@
+{
+	"id": "auto-folder-linker",
+	"name": "Auto Folder Linker",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically lists files in a folder note using wikilinks.",
+	"author": "Raghavapriyan Saravanapriyan",
+	"authorUrl": "https://github.com/RaghavapriyanSaravanapriyan",
+	"isDesktopOnly": false
+}
